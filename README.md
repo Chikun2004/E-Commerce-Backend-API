@@ -10,7 +10,6 @@ A robust RESTful API (Backend) for an E-commerce platform built with Node.js, Ex
 - Role-Based Access Control
 - Input Validation
 - Error Handling
-- API Documentation
 - Automated Testing
 
 ## Tech Stack
